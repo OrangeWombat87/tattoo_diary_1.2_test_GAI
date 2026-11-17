@@ -1,0 +1,6 @@
+{
+  "name": "Ежедневник татуировщика",
+  "description": "Минималистичный календарь-ежедневник для тату-мастера с тёмной темой и сохранением записей в localStorage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
